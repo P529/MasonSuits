@@ -1,7 +1,7 @@
 {
     "name": "Mason_Suits",
     "version_number": "1.1.1",
-    "website_url": "https://steamcommunity.com/id/p529/",
+    "website_url": "https://github.com/P529/MasonSuits",
     "description": "Suits and cosmetics for my fellow friends.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
